@@ -1,4 +1,4 @@
-# SEGGER J-Link RTT Viewer V6.80a Terminal Log File
+﻿# SEGGER J-Link RTT Viewer V6.80a Terminal Log File
 # Compiled: 16:29:34 on May 29 2020
 # Logging started @ 26 Aug 2020 11:25:13
 00> event time59 event time59 begin 0 0   0
@@ -6,7 +6,7 @@
 00> saveSystemTime ........  nowSaveTimeID 443 651034619
 00> totalDataWrite   ...STEP:0 goal 0
 00> event time59 end
-00> event time60 event time60 begin
+00> event time60 event time60 began
 00> 
 00> GetHeartAlarmEn time:60 Week:ff  E:2 heartAlarm.Enable beginTime endTime nowTime 2 0 1439 177
 00> ........Auto spo2 En:0  Week:ff  
@@ -40,7 +40,7 @@
 00> GH30x_adt_wear_detect_start
 00> heartClose  mode2: 1  openSource: 0
 00> heartClose  mode 3: 0   
-00> heartClose  mode 4: 0   
+00> heartOpen mode 4: 0   
 00> 
 00> ...........HRPoweroff 5
 00> event time59 event time59 begin 0 0   0
